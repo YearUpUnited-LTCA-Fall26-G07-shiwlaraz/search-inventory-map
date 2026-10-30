@@ -1,4 +1,4 @@
-package com.pruralsight;
+package com.pluralsight;
 
 import java.util.HashMap;
 import java.util.Scanner;

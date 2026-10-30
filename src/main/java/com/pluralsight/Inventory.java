@@ -1,4 +1,4 @@
-package com.pruralsight;
+package com.pluralsight;
 
 public class Inventory {
     private int id;
