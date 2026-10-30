@@ -1,4 +1,4 @@
-package com.pruralsight;
+package com.pluralsight;
 
 import java.util.HashMap;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
